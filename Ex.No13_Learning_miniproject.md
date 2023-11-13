@@ -4,6 +4,7 @@
 ### AIM: 
 To write the program to train the classifier for Diabetes.
 ###  Algorithm:
+```
 Step 1: Import packages
 Step 2: Get the data
 Step 3: Split the data
@@ -11,6 +12,7 @@ Step 4: Scale the data
 Step 5: Instantiate model
 Step 6: Create a function for gradio
 Step 7: Print Result. <br>
+```
 ### Program:
 ```
 import numpy as np
